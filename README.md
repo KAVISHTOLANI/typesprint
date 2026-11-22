@@ -2,6 +2,8 @@
 
 Timed typing practice with original passages, live speed and accuracy, in-place mistake highlighting, results with your most-missed keys, and a saved history with a progress chart.
 
+**Live demo:** [https://kavishtolani.github.io/typesprint/](https://kavishtolani.github.io/typesprint/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Test in progress with a highlighted mistake](docs/test.png)
 
 | Result | Mobile |
@@ -45,3 +47,7 @@ npm run test:e2e   # Playwright smoke test (npm run e2e:install once if Chromium
 ## Future improvements
 
 - Custom passages, drills generated from your most-missed keys, and per-key speed heatmaps.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).

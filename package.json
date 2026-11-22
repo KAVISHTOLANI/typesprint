@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Timed typing practice with speed and accuracy stats.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
