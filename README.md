@@ -1,5 +1,17 @@
 # TypeSprint
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="TypeSprint on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="TypeSprint on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="TypeSprint on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Timed typing practice with original passages, live speed and accuracy, in-place mistake highlighting, results with your most-missed keys, and a saved history with a progress chart.
 
 **Live demo:** [https://kavishtolani.github.io/typesprint/](https://kavishtolani.github.io/typesprint/) — runs entirely in your browser; demo data is fictional and labelled.
